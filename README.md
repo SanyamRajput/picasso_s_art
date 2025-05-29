@@ -26,7 +26,7 @@ A web application for uploading and displaying artwork using Python, Flask, and 
 
    ```
    git clone <repository-url>
-   cd picassos
+   cd picasso_s_art
    ```
 
 2. **Create a virtual environment** (optional but recommended):
